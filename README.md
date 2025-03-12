@@ -4,4 +4,4 @@ Just generates pretty attractor patterns in OpenGL using GLUT. 'main.cpp' render
 *note: all the sources files are run inside a docker container with image from nvidia/opengl*
 
 ## Lorenz Attractor:
-![image](https://github.com/user-attachments/assets/5049d507-f599-440a-b5fe-1ecce58dd5bf)
+![image](https://github.com/user-attachments/assets/a79cb2c4-6f9a-4450-a141-59de8cc69c02)
